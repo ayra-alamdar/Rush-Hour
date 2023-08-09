@@ -46,4 +46,3 @@ BFS algorithm helps find the shortest path from the taxi to the passenger, consi
 
 
 
-![Screenshot (791)](https://github.com/ayra-alamdar/Rush-Hour/assets/126222111/5b3587f2-dfac-436a-927d-0db543112e89)
