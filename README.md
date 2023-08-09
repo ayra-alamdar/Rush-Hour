@@ -43,3 +43,7 @@ Each maze cell is a node, and valid connections (edges) are established between 
 BFS algorithm helps find the shortest path from the taxi to the passenger, considering obstacles.
 ### Conclusion:
 "Code Cab" is a maze navigation game that challenges players to strategize their movements and find the shortest path while avoiding obstacles. The code showcases the implementation of classes, graph-based maze representation, and player scoring. The game offers an engaging experience for players to test their problem-solving skills and compete for the highest scores on the leaderboard.
+
+
+
+![Screenshot (791)](https://github.com/ayra-alamdar/Rush-Hour/assets/126222111/5b3587f2-dfac-436a-927d-0db543112e89)
